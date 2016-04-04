@@ -1,6 +1,7 @@
 
 
 ## Setting the working directory
+## Downloaded all files under UCIDataSet
 
 setwd("/Users/Shiva/CleaningData/UCIDataSet")
 
